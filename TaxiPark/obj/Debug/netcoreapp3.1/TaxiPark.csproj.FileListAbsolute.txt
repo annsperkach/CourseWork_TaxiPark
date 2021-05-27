@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.exe
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.deps.json
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.runtimeconfig.json
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.dll
+C:\Users\An-PC\source\repos\TaxiPark\bin\Debug\netcoreapp3.1\TaxiPark.pdb
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.dll
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.pdb
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.genruntimeconfig.cache
+C:\Users\An-PC\source\repos\TaxiPark\obj\Debug\netcoreapp3.1\TaxiPark.csprojAssemblyReference.cache

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaxiPark.Program">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.TaxiDriver">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaxiDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.TaxiDriverBase">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAgAAAAAAAEAAAAQAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>TaxiDriverBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.Client">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAhAEAAAAAAAAAAAAAABAAgAAgAAIAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.ClientBase">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAgAAEAAAABQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ClientBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.Travel">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="TaxiLibrary.Travel.InfoDayHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Travel.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAQAQAAAAAABFAAAAAAAAAABQ=</HashCode>
+      <FileName>Travel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaxiLibrary.Administrator">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAABRAAAABQgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="TaxiLibrary.EventHandler">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
