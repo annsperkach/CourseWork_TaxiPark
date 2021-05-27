@@ -241,7 +241,11 @@ namespace TaxiPark
                             }
                             Thread.Sleep(900);
                             client.ChooseTrip(distance, day, car, comfortclass, paymentselection);
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.WriteLine($"{client.Name},Thanks for the order!");
+                            Console.ResetColor();
                             cab.ClientService(client);
+                            Console.WriteLine("The list of Clients:");
                             cab.GetClientsId();
                             menu();
                         }
@@ -256,11 +260,13 @@ namespace TaxiPark
                         }
                         else if (choice == 3)
                         {
+                            Console.WriteLine("The Working time and Salary of the Taxidrivers:");
                             cab.GetInfoTaxists();
                             Console.WriteLine();
                         }
                         else if (choice == 4)
                         {
+                            Console.WriteLine("The list of Clients:");
                             cab.GetClientsId();
                         }
                         else if (choice == 5)
